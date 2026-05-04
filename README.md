@@ -21,6 +21,7 @@
 ## 🔨 Projects
 - Crypto Trading Learning App
 - Statistics Data Analysis (Python)
+- Hospital_management_system
 - Web Development Projects
 
 ## 📫 Contact
